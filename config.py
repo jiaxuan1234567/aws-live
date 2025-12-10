@@ -3,5 +3,5 @@ customuser = "aws_user"
 custompass = "Bmit3273"
 customdb = "employee"
 custombucket = "tojiaxuan-employee"
-customregion = "us-east-1"
+customregion = "us-east-1b"
 
